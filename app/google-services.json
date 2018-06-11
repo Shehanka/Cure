@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "253434230030",
+    "firebase_url": "https://cure-d2b48.firebaseio.com",
+    "project_id": "cure-d2b48",
+    "storage_bucket": "cure-d2b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253434230030:android:28efa6bab081e111",
+        "android_client_info": {
+          "package_name": "com.chamodshehanka.cure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253434230030-l4nb5vtlaeb6drum5n9udm44mkuv0f5m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "253434230030-l4nb5vtlaeb6drum5n9udm44mkuv0f5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxhub42WbuZFu2s5CVDdExRHkfnC1ZEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
