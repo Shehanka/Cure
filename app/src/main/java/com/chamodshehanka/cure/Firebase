@@ -1,0 +1,9 @@
+{
+  "customer" : {
+    "Chamod" : {
+      "firstName" : "David",
+      "birthday" : "16/01/1997",
+      "location" : "SF"
+    }
+  }
+}
