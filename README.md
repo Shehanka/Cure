@@ -1,3 +1,3 @@
 # Cure
-This is Cure App
+This application for people who are like to donate
 
