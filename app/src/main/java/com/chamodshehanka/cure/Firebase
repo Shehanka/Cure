@@ -4,12 +4,6 @@
       "firstName" : "Chamod",
       "birthday" : "16/01/1997",
       "location" : "SF"
-    },
-
-    "Dulara": {
-      "firstName" : "Dulara",
-      "birthday" : "10/04/1996",
-      "location" : "AF"
     }
   }
 }
