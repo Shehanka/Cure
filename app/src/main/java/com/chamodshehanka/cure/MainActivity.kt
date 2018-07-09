@@ -5,7 +5,8 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 
-    var userEmail = null;
+    var userEmail = null
+    var userPassword = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
